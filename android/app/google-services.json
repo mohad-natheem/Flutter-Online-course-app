@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "401299343839",
+    "project_id": "ulearning-app-22d08",
+    "storage_bucket": "ulearning-app-22d08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401299343839:android:5bb349a0edf1c97172dc6a",
+        "android_client_info": {
+          "package_name": "com.example.online_learning_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy7X_64j3WRaieK5ETdPBeSulekuBrM9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

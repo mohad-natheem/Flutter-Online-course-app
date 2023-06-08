@@ -1,0 +1,3 @@
+class SettingsPageStates{
+  const SettingsPageStates();
+}
